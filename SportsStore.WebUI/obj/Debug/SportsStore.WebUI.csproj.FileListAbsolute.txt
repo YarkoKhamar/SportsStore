@@ -1,0 +1,99 @@
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Moq.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\WebActivator.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\Yaroslav Khamar\documents\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\roslyn\csc.exe
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\Moq.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\WebActivator.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll.config
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojAssemblyReference.cache
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csproj.CopyComplete
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\khama\Documents\OldProjects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
